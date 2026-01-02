@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/luispernia/obsidian-plugin-starter-template/compare/v1.0.0...v1.1.0) (2026-01-02)
+
+### Features
+
+- Update plugin ID, name, description, author, and funding URLs in manifest and package files. ([e2d4333](https://github.com/luispernia/obsidian-plugin-starter-template/commit/e2d4333a860615cd3f2fefb4a00aad2d2a263070))
+
 # 1.0.0 (2026-01-01)
 
 ### Features
